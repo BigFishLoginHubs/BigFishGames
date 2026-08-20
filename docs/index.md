@@ -1,7 +1,7 @@
 # Big Fish Games Guide
 
 Welcome to the **Big Fish Games Guide**, an independent informational resource designed to help users find general information about Big Fish Games.
-
+<meta name="google-site-verification" content="e7JfrPVHJMLVH0dOrp1sIqbTMan4nUIdfKNBnFh3A3E" />
 
 <img src="https://mytrial.tv/header-banner-1.png
  "/ height="500" width="800">
