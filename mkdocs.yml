@@ -1,0 +1,16 @@
+site_name: Big Fish Games Guide
+site_description: Big Fish Games help, account, activation, download, and support documentation
+site_author: Big Fish Games Guide
+
+docs_dir: docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Download: download.md
+  - Activation: activation.md
+  - Account Help: AccountHelp.md
+  - Support: support.md
